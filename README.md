@@ -48,8 +48,7 @@ The final visualization is a clear bar chart showing the **Top 10 countries by t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/prodigy-ds-task01.git
-   cd prodigy-ds-task01
+   git clone https://github.com/anjali764/PRODIGY_DS_01/tree/main
    ```
 
 2. Install the required libraries (if not already installed):
